@@ -1,3 +1,9 @@
+# 👋 Hello, I'm Pedro!
+
+<table>
+<tr>
+<td>
+
 ```text
 ========================================++++++++++++=
 ====================:........::-==+====++++++++++++++
@@ -27,3 +33,33 @@
 =+=---=--::-=-=-:---==:..-**=+=-=+++++++*=--=*+==+**+
 -+=====-----=--====+***=+**-:-==+++==::+*=--=++==+*+=
 ```
+
+</td>
+<td valign="top">
+
+## Pedro Pires
+
+🎓 ADS Student
+🐍 Python
+🗄️ SQL
+⚙️ Backend
+
+### Currently learning
+
+`Python` `SQL` `Backend` `Git` `GitHub`
+
+<br>
+
+<a href="https://www.linkedin.com/in/pedropires01/">LinkedIn</a>
+
+</td>
+</tr>
+</table>
+
+---
+
+### 🛠️ Tech Stack
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,git,github,postgresql,html,css,vscode" />
+</p>
