@@ -25,8 +25,6 @@ me = {
 
 <div align="center">
     
-```python    
-while alive: learn() build()
-```
+### `while alive: learn() build()`
 
 </div>
