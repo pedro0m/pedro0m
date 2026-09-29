@@ -1,36 +1,32 @@
 # Pedro Pires
 
-**Backend learner.**  
-Currently turning Python and SQL into real things — one commit at a time.
+I write code to understand how things work.  
+Python and SQL are my current tools — backend is where I'm heading.
 
 ---
 
-### 🎯 Focus right now
+### 🎯 What I'm actually doing
 
 ```python
-focus = {
-    "language": "Python",
-    "data":     "SQL",
-    "direction": "Backend",
-    "mode":      "learning by building"
+me = {
+    "studying":  "ADS",
+    "sharpening": ["Python", "SQL"],
+    "aiming_at":  "Backend",
+    "style":      "learn → break → fix → repeat"
 }
 ```
-### 🧭 The path
-- 🎓 ADS student
-- 🐍 Python — daily practice
-- 🗄️ SQL — from queries to schema design
-- ⚙️ Backend — how systems actually work
 
-### 🛠️ Tools I'm working with
+
+### 🛠️ What I reach for
 <p> <img src="https://skillicons.dev/icons?i=python,postgresql,git,github,vscode,html,css,js,aws" /> </p>
 
 ### 📡 Find me
-<a href="https://www.linkedin.com/in/pedropires01/"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"> </a> <a href="https://github.com/pedro0m"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"> </a>
-
----
+<a href="https://www.linkedin.com/in/pedropires01/"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"> </a> <a href="https://github.com/pedro0m"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"> </a> <a href="mailto:pedroop1301@hotmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"> </a>
 
 <div align="center">
-  
-### `while(alive) { learn(); build(); }`
+    
+```python    
+while alive: learn() build()
+```
 
 </div>
