@@ -9,10 +9,9 @@ Python and SQL are my current tools — backend is where I'm heading.
 
 ```python
 me = {
-    "studying":  "ADS",
-    "sharpening": ["Python", "SQL"],
-    "aiming_at":  "Backend",
-    "style":      "learn → break → fix → repeat"
+    "college":  "ADS @ Faculdade Impacta",
+    "studying": ["Python", "SQL"],
+    "focus_in": "Backend"
 }
 ```
 
